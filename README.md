@@ -47,7 +47,7 @@ Convert the following hexadecimal numbers to binary:
 ### Answers:
 
 ### Binary to Decimal Conversion
-1. 1101 → **13** =
+1. 1101 → **13** 
 2. 101110 → **46** 
 3. 1001011 → **75** 
 4. 111111 → **63** 
@@ -61,11 +61,11 @@ Convert the following hexadecimal numbers to binary:
 5. 7A → **122**
 
  ### Binary to Hexadecimal Conversion
-1. 10101010 → **AA** (hexadecimal)
-2. 11001101 → **CD** (hexadecimal)
-3. 11110000 → **F0** (hexadecimal)
-4. 101110111 → **5B7** (hexadecimal)
-5. 100111011 → **4BB** (hexadecimal)
+1. 10101010 → **AA** 
+2. 11001101 → **CD** 
+3. 11110000 → **F0** 
+4. 101110111 → **5B7** 
+5. 100111011 → **4BB** 
 
 ### Hexadecimal to Binary Conversion
 #### Answers:
